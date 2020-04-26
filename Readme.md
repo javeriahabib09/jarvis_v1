@@ -13,6 +13,7 @@ This is v1 of Jarvis. Jarvis is a movie recommendation system created for resear
 4. Kindly provide us with you valuable feedback at this link: https://forms.gle/WZpDcqKRxLZRSV6G8
 
 ### Dialogue Flow
+![Jarvis Dialogue Flow](Jarvis_dialogue_flow.png)
 
 ### Genres
 When the system asks for genres, one of the following options should be provided:
