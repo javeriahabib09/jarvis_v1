@@ -8,7 +8,7 @@ This is v1 of Jarvis. Jarvis is a movie recommendation system created for resear
  - /start
  - **Hi** or **Hello**
  - Ask any questions like *I want some ramance movies from the 90s*
-3. For more details, refor to the [dialogue flow](Jarvis_dialogue_flow.png) of Jarvis
+3. For more details, refor to the [dialogue flow](#dialogue-flow) of Jarvis
 4. As a heads-up, check the [list of genres](#genres) available in Jarvis v1
 5. If agents asks for your preference, you have an option of not answering.
  - For example, if agent asks "Do you have any favourite director?", you can answer "It doesn't matter", "I don't care", "Anything" etc.
