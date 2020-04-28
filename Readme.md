@@ -1,5 +1,3 @@
-# Jarvis Version 1
-
 This is v1 of Jarvis. Jarvis is a movie recommendation system created for research purposes. Version 1 is based on hand-written rules and user-feedback will be used to improve this system.
 
 ## Instructions to interact with Jarvis
