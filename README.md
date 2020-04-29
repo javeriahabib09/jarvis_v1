@@ -1,5 +1,3 @@
-# Jarvis
-
 Welcome to Jarvis. Jarvis is a chatbot created to help you with finding a good movie recommendation. You can access the system at https://t.me/Jarvis_MRSv1_bot
 
 ## Instructions
