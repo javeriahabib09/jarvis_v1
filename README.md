@@ -1,4 +1,4 @@
-Welcome to Jarvis. Jarvis is a chatbot created to help you with finding a good movie recommendation. You can access the system at https://t.me/Jarvis_MRSv1_bot
+Welcome to Jarvis. Jarvis is a chatbot created to help you with finding a good movie recommendation. You can access the system at [https://t.me/Jarvis_MRSv1_bot](https://t.me/Jarvis_MRSv1_bot)
 
 ## Instructions
 
@@ -25,4 +25,4 @@ Note: On the bottom of the keyboard, if the icon <img src="telegram-icons/keyboa
   - /help : get a list of instructions 
   - /exit : exit the recommendation. You can also say BYE in a humanly manner :smile:
 
-* **Important:** Kindly provide us with your valuable feedback at this link: https://forms.gle/WZpDcqKRxLZRSV6G8
+* **Important:** Kindly provide us with your valuable feedback at this link: [https://forms.gle/WZpDcqKRxLZRSV6G8](https://forms.gle/WZpDcqKRxLZRSV6G8)
